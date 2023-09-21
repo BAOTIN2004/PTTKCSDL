@@ -1,0 +1,9 @@
+Các bước phát triển hệ thống công tin
+B1 kế hoạch hóa
+b2 nghiên cứu khả thi, khảo sát hiện trạng
+b3 hợp đồng trách nhiệm
+b4 phân tích, thiết kế
+b5 lập trình
+b6 thử nghiệm
+b7 triển khai
+b8 bảo trì, thích ứng
